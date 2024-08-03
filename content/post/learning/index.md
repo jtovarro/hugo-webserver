@@ -1,15 +1,15 @@
 ---
-title: Markdown Syntax Guide
-date: 2023-09-07
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+title: Learning
+#date: 2024-08-03
+description: Learning is always key to be up to date with customer challenges. Here is a summary of the Certifications I manage to pass :)
 tags: 
     - markdown
     - css
     - html
     - themes
 categories:
-    - themes
-    - syntax
+    - Learning
+    - Certifications
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
