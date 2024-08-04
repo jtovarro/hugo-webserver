@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Impact on Juan Carlos Tovar</title><link>https://jtovarro.github.io/cv/tags/impact/</link><description>Recent content in Impact on Juan Carlos Tovar</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://jtovarro.github.io/cv/tags/impact/index.xml" rel="self" type="application/rss+xml"/><item><title>Contributions</title><link>https://jtovarro.github.io/cv/p/contributions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtovarro.github.io/cv/p/contributions/</guid><description>&lt;img src="https://jtovarro.github.io/cv/p/contributions/cover.png" alt="Featured image of post Contributions" />&lt;h2 id="community-contributions">Community contributions
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Contribution&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;th>Graphics&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Technical Blog - Share knowledge with a wider audience on the internet&lt;/td>
+&lt;td>2024&lt;/td>
+&lt;td>As one of my goals in 2024, I&amp;rsquo;ve been working on a blog page to upload content related to technical topics. In the commin month my plan is to make it grow &lt;a class="link" href="https://jtovarro.github.io/blog" target="_blank" rel="noopener"
+>https://jtovarro.github.io/blog&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CNCF Ambassador&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>Currently working to organize new CNCF events hosted in Madrid, our commitment as team is to share technical knowledge not only at Red Hat but beyond our frontiers. Let&amp;rsquo;s grow the community! Go to the official page to see upcomming events: &lt;a class="link" href="https://community.cncf.io/cloud-native-madrid-1/" target="_blank" rel="noopener"
+>https://community.cncf.io/cloud-native-madrid-1/&lt;/a>. &lt;strong>Collaboration Teresa Giner, Alicia Maroto, Ricardo Noriega and colleagues from Solo.io and Suse.&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Community Valencia Twitch Meet-up&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>Twitch Meet-Up: Secret Management following GitOps strategies. &lt;a class="link" href="https://www.youtube.com/watch?v=JxTJMqEoovQ&amp;amp;t=3259s" target="_blank" rel="noopener"
+>Youtube Video&lt;/a>. &lt;strong>Collaboration Asier Cidón&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lego Lab at Universitat Politecnica de Catalunya&lt;/td>
+&lt;td>2022&lt;/td>
+&lt;td>Introducing agile methodologies among UPC students using the class as space to play and learn. &lt;strong>Collaboration Ernesto Chacón and Jordi Olivé&lt;/strong>&lt;/td>
+&lt;td>&lt;img src="https://jtovarro.github.io/cv/cv/p/contributions/lego.png"
+width="1280"
+height="960"
+srcset="https://jtovarro.github.io/cv/cv/p/contributions/lego_hu14527727450542095173.png 480w, https://jtovarro.github.io/cv/cv/p/contributions/lego_hu11394958231900183983.png 1024w"
+loading="lazy"
+alt="Universitat Politecnica - Lego Lab"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Bachelor&amp;rsquo;s thesis&lt;/td>
+&lt;td>2019&lt;/td>
+&lt;td>Bachellor Thesis associated with the Las Palmas de Gran Canaria Univeristy. Integration and optimization of ML and IA applications with Kubernetes: &lt;a class="link" href="https://accedacris.ulpgc.es/handle/10553/76839" target="_blank" rel="noopener"
+>https://accedacris.ulpgc.es/handle/10553/76839&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="internal-contributions">Internal contributions
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Contribution&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;th>Graphics&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Validated Patterns&lt;/td>
+&lt;td>2024&lt;/td>
+&lt;td>TO BE ADDED&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Iberia Meetup - Leapp and In-Place Upgrades talk&lt;/td>
+&lt;td>2024&lt;/td>
+&lt;td>In this session we will present our experience and some of the lessons learned at AXA (France). In this project we have worked from Consulting to facilitate, optimise and reduce human errors when updating their server fleet, using: Ansible to standardise and automate the upgrade process and Leapp as an upgrade tool; which allows us to benefit from the new features that RHEL has (and support), without the need to install new machines. &lt;a class="link" href="https://drive.google.com/file/d/1Bpy_Npp3iI0DH9k4nyLUak25sBqjY28H/view" target="_blank" rel="noopener"
+>Session Reocrded&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Gymkhana facilitator - Graduation Program event at Brno&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>Exported alongside the spanish 2021 cohort Alicia and Agustin the Gymkhana delivered in the Red Hat Summit Madrid to the graduation event that take place every year in Brno. We delivered this activity modified in terms of challenges and technologies to fit the attendants needs. The Gymkhana challenges and delivery was supreme as reported by the feedback requested. &lt;strong>Collaboration Alicia Maroto and Agustín Algorta&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Red Hat Summit - Madrid&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>Been the Red Hat team lead to the Gymkhana activity with our customers to facilitate one of the most attracting initiatives done in Iberia ever.&lt;/td>
+&lt;td>&lt;img src="https://jtovarro.github.io/cv/cv/p/contributions/summit.png"
+width="2048"
+height="1365"
+srcset="https://jtovarro.github.io/cv/cv/p/contributions/summit_hu14787270344622786014.png 480w, https://jtovarro.github.io/cv/cv/p/contributions/summit_hu3503716272262315416.png 1024w"
+loading="lazy"
+alt="Summit 2023"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>EMEA TAM Mock Project&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>Internal project to support the success of the EMEA Graduate Program. In this initiative we have been supporting the Technical Account Manager rotation for new cohorts with actions such as creating support cases and acting as &amp;ldquo;real customers&amp;rdquo;, so the Graduates could interact with support cases in Salesforce. And start to use TSE best practices while improving their technical skills at the same time: searching for KCS, documentation or even asking for help if they get stuck with the cases. All the documentation is in this &lt;a class="link" href="https://drive.google.com/drive/folders/1fXCLU1W_lHC-B8cfQaNiPSDeA7SKPHIS" target="_blank" rel="noopener"
+>folder&lt;/a> and also a &lt;a class="link" href="https://docs.google.com/forms/d/1JyOdtPmofik4hXpHI3vxvpshbuhgCxFYQPr7FH6RBSk/edit#responses" target="_blank" rel="noopener"
+>review&lt;/a> from the Graduates with 5/5 starts. &lt;strong>Collaboration Alicia Maroto and Agustín Algorta&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Red Hat Solution published&lt;/td>
+&lt;td>2022&lt;/td>
+&lt;td>Compliance Operator rules kernel-module are FAILED after being APPLIED in OpenShift Container Platform 4: &lt;a class="link" href="https://access.redhat.com/solutions/6973351" target="_blank" rel="noopener"
+>https://access.redhat.com/solutions/6973351&lt;/a>. &lt;strong>Collaboration José Márquez&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Buddy&lt;/td>
+&lt;td>2022&lt;/td>
+&lt;td>Working closely to New Hirings, supporting them in everything they need at the begining of the journey. As buddy I tried to be as transparent as possible with my experience during my Graduate Program, provided tips, and together we try to get the best of the Graduate experience. Identifying when something is not going as expected and searching for mentors working in the area of New Hiring colleagues interest.&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="sales-contributions">Sales contributions
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Contribution&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;th>Graphics&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Open Tour Bilbao&lt;/td>
+&lt;td>2024&lt;/td>
+&lt;td>Managing the Edge with Ansible and RHEL OSTree demo speaker. &lt;strong>Collaboration with Luis Boubeta&lt;/strong>&lt;/td>
+&lt;td>&lt;img src="https://jtovarro.github.io/cv/cv/p/contributions/edge.png"
+width="1600"
+height="1066"
+srcset="https://jtovarro.github.io/cv/cv/p/contributions/edge_hu17081862987777275028.png 480w, https://jtovarro.github.io/cv/cv/p/contributions/edge_hu1135000866919712152.png 1024w"
+loading="lazy"
+alt="Managing the Edge with AAP demo"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Red Hat Quay at BBVA&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>&lt;a class="link" href="https://docs.google.com/presentation/d/1XoZuvzp72or_o-43IETURtU2M7TLXQJt2Wp2MHOCbJM/edit#slide=id.g252eb1d4225_0_9556" target="_blank" rel="noopener"
+>Slides&lt;/a>. &lt;strong>Collaboration Miguel Ángel Saez, Carlos Cornejo&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Advanced Cluster Management couse delivered at Capgemini&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>Explaining to app dev technical audience at High Potencial program in Capgemini about Cloud Computing benefits of using Advanced Cluster Management, to administrate the clusters fleet and deploy applications and policies the GitOps way. &lt;strong>Collaboration Luis Boubeta&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WorkAthon at Red Hat Summit Connect Madrid&lt;/td>
+&lt;td>2022&lt;/td>
+&lt;td>Supporting this activity in the Summit Connect: reviewing laboratiories, and helping to both partners and customers during the activity day. Also colecting feedback and questions from customers to further analysis. &lt;strong>Supervision Moisés Rivera&lt;/strong>&lt;/td>
+&lt;td>&lt;img src="https://jtovarro.github.io/cv/cv/p/contributions/workathon.jpg"
+width="2048"
+height="1365"
+srcset="https://jtovarro.github.io/cv/cv/p/contributions/workathon_hu10070979823689762102.jpg 480w, https://jtovarro.github.io/cv/cv/p/contributions/workathon_hu3234220980235256331.jpg 1024w"
+loading="lazy"
+alt="WorkAthon at Summit 2022"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Red Hat Middleware solutions&lt;/td>
+&lt;td>2022&lt;/td>
+&lt;td>Explaining to Grifols, a pharma customer, about Red Hat Middleware portfolio and its benefits. Link to the &lt;a class="link" href="https://drive.google.com/drive/folders/1tnPelN4nLtPk2V4WilXTXQn6R604Qlpb" target="_blank" rel="noopener"
+>vídeo&lt;/a> and &lt;a class="link" href="https://docs.google.com/presentation/d/1YGkT-_bzHopX1mwB8GnYG5rBaDCE83hkEbpHg3J3q3k/edit#slide=id.g12876cb2376_0_751" target="_blank" rel="noopener"
+>slides&lt;/a> used. &lt;strong>Collaboration Àngel Ollé&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Onsite AAP demo for Seidor Technicians&lt;/td>
+&lt;td>2022&lt;/td>
+&lt;td>Showing Red Hat partner in Zaragoza, Seidor, about new features included in Ansible Automation Platform v2.0. &lt;strong>Collaboration Moises Rivera&lt;/strong>&lt;/td>
+&lt;td>&lt;img src="https://jtovarro.github.io/cv/cv/p/contributions/seidor.png"
+width="1280"
+height="960"
+srcset="https://jtovarro.github.io/cv/cv/p/contributions/seidor_hu8226013916921774707.png 480w, https://jtovarro.github.io/cv/cv/p/contributions/seidor_hu16232043053075675159.png 1024w"
+loading="lazy"
+alt="AAP showcase"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
